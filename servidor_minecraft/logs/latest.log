@@ -519,3 +519,20 @@
 [11Dec2024 16:17:08.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [11Dec2024 16:26:31.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Numo2021[/127.218.163.134:53807] logged in with entity id 1055 at (183.3117067764032, 126.92159999847412, 154.5247930995702)
 [11Dec2024 16:26:31.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 joined the game
+[11Dec2024 17:25:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Stone Age]
+[11Dec2024 17:25:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Getting an Upgrade]
+[11Dec2024 17:29:04.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Knowledge of Death]
+[11Dec2024 17:29:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Strong or Careful]
+[11Dec2024 17:29:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Komodo Dragon
+[11Dec2024 17:29:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Your First Grave]
+[11Dec2024 17:29:05.025] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 17:29:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Most Useful Key]
+[11Dec2024 17:29:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Here They Come]
+[11Dec2024 17:29:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [A Fast Comeback]
+[11Dec2024 17:29:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Knowledge raises the soul]
+[11Dec2024 17:34:57.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cbcbd62[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:37117) lost connection: Disconnected
+[11Dec2024 17:35:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 hit the ground too hard
+[11Dec2024 17:35:16.681] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 17:35:58.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@598f6c47[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:47419) lost connection: Disconnected
+[11Dec2024 17:40:17.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15857b8d[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:45013) lost connection: Disconnected
+[11Dec2024 17:43:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Monster Hunter]

@@ -5001,3 +5001,114 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 17:17:06.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Dec2024 17:22:06.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 17:22:06.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:25:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Stone Age]
+[11Dec2024 17:25:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Getting an Upgrade]
+[11Dec2024 17:27:06.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:27:06.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:28:12.014] [Worker-Main-16/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[11Dec2024 17:28:32.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:28:32.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:28:34.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:28:34.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:29:00.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:00.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:29:00.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:01.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:02.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:03.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:04.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:04.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Knowledge of Death]
+[11Dec2024 17:29:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Strong or Careful]
+[11Dec2024 17:29:04.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Komodo Dragon
+[11Dec2024 17:29:04.919] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:215, y:111, z:271, dim:minecraft:overworld]
+[11Dec2024 17:29:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Your First Grave]
+[11Dec2024 17:29:05.025] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 17:29:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Most Useful Key]
+[11Dec2024 17:29:11.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Here They Come]
+[11Dec2024 17:29:16.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [A Fast Comeback]
+[11Dec2024 17:29:22.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:22.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:23.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:29:45.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Knowledge raises the soul]
+[11Dec2024 17:30:17.817] [Worker-Main-48/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 17:32:06.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:32:06.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:34:57.482] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 32 messages to dispatch.
+[11Dec2024 17:34:57.526] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[11Dec2024 17:34:57.555] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[11Dec2024 17:34:57.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cbcbd62[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:37117) lost connection: Disconnected
+[11Dec2024 17:35:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 hit the ground too hard
+[11Dec2024 17:35:16.578] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:181, y:104, z:272, dim:minecraft:overworld]
+[11Dec2024 17:35:16.681] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 17:35:58.681] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 32 messages to dispatch.
+[11Dec2024 17:35:58.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[11Dec2024 17:35:58.775] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[11Dec2024 17:35:58.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[11Dec2024 17:35:58.855] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[11Dec2024 17:35:58.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@598f6c47[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:47419) lost connection: Disconnected
+[11Dec2024 17:36:22.909] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:22.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:36:23.825] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:23.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:36:24.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:24.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:36:26.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:26.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:36:26.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:27.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:28.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:29.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:29.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:30.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:36:31.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:37:06.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:37:06.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:40:17.196] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 32 messages to dispatch.
+[11Dec2024 17:40:17.211] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[11Dec2024 17:40:17.253] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[11Dec2024 17:40:17.304] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[11Dec2024 17:40:17.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15857b8d[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:45013) lost connection: Disconnected
+[11Dec2024 17:42:06.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 17:42:06.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 17:43:54.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:43:54.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:43:55.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:43:55.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:43:55.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:43:56.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:43:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Monster Hunter]
+[11Dec2024 17:43:56.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:03.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:04.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:04.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:05.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:05.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:06.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:06.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:06.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:07.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:07.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:07.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:08.523] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:08.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:08.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:10.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:10.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:10.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:10.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:10.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:11.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:11.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:11.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:11.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:12.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:12.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:13.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:13.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:14.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:14.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:15.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:15.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 17:44:34.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:36.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 17:44:37.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
