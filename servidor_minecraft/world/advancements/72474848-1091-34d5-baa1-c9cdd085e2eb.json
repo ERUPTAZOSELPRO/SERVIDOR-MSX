@@ -56,7 +56,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sparse_jungle": "2024-12-11 16:10:24 +0000",
-      "minecraft:forest": "2024-12-11 17:31:01 +0000"
+      "minecraft:forest": "2024-12-11 17:31:01 +0000",
+      "minecraft:lush_caves": "2024-12-11 18:07:56 +0000"
     },
     "done": false
   },
@@ -75,6 +76,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-11 17:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-11 18:05:05 +0000"
     },
     "done": true
   },
