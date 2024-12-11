@@ -536,3 +536,37 @@
 [11Dec2024 17:35:58.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@598f6c47[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:47419) lost connection: Disconnected
 [11Dec2024 17:40:17.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15857b8d[id=<null>,name=Quiq7887,properties={},legacy=false] (/127.127.123.119:45013) lost connection: Disconnected
 [11Dec2024 17:43:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Monster Hunter]
+[11Dec2024 17:49:45.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Quiq7887[/127.127.123.119:43341] logged in with entity id 14235 at (188.5, 129.0, 167.5)
+[11Dec2024 17:49:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 joined the game
+[11Dec2024 17:49:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Christmas]
+[11Dec2024 17:49:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Ice and Fire]
+[11Dec2024 17:51:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was doomed to fall by Quiq7887
+[11Dec2024 17:51:25.333] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 17:52:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Numo2021
+[11Dec2024 17:52:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Your First Grave]
+[11Dec2024 17:52:18.026] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 17:52:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [The Most Useful Key]
+[11Dec2024 17:52:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Gone Bananas!]
+[11Dec2024 17:52:36.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Knowledge of Death]
+[11Dec2024 17:52:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has reached the goal [A Fast Comeback]
+[11Dec2024 17:52:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Numo2021
+[11Dec2024 17:52:54.664] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 17:52:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Funeral Theft]
+[11Dec2024 17:52:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Discreet Search]
+[11Dec2024 17:54:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Stone Age]
+[11Dec2024 17:55:19.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Acquire Hardware]
+[11Dec2024 17:56:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Getting an Upgrade]
+[11Dec2024 17:58:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Anteater
+[11Dec2024 17:58:48.809] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 17:59:00.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has reached the goal [Here They Come]
+[11Dec2024 17:59:29.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[11Dec2024 17:59:50.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[11Dec2024 18:00:24.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Ashes 'n Bones]
+[11Dec2024 18:00:24.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [A Strange Grave Dust]
+[11Dec2024 18:00:40.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Zombie
+[11Dec2024 18:00:40.961] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:00:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Zombie
+[11Dec2024 18:00:46.176] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 18:02:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Monster Hunter]
+[11Dec2024 18:04:10.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [A Strange Grave Dust]
+[11Dec2024 18:05:05.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Isn't It Iron Pick]
