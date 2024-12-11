@@ -5795,3 +5795,207 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11Dec2024 18:15:14.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [11Dec2024 18:15:15.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [11Dec2024 18:15:16.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:23.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:26.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:29.522] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:33.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:44.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:47.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:53.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:53.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 18:15:58.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:58.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:59.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:59.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:15:59.474] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:00.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Chain Death]
+[11Dec2024 18:16:00.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:16:00.520] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:338, y:56, z:349, dim:minecraft:overworld]
+[11Dec2024 18:16:00.542] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:16:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Acquire Hardware]
+[11Dec2024 18:16:12.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [Isn't It Iron Pick]
+[11Dec2024 18:16:22.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:22.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:25.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:33.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:37.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:38.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:51.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:51.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:16:51.875] [Server thread/DEBUG] [tombstone/]: A new grave of the player Quiq7887 was created at position [x:340, y:56, z:350, dim:minecraft:overworld]
+[11Dec2024 18:16:51.953] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 18:16:53.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:53.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:54.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:54.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[11Dec2024 18:16:54.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:55.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:55.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:16:56.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:00.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:03.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:03.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:04.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:09.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:09.636] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:10.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:10.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:16.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:17:16.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:17:25.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:29.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:29.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:30.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:32.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:34.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:35.132] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:35.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:35.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:35.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:17:38.363] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:332, y:56, z:343, dim:minecraft:overworld]
+[11Dec2024 18:17:38.414] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:17:40.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:40.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:41.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:41.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:52.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:53.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:53.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11Dec2024 18:17:55.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:57.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:59.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:17:59.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:00.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:00.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:00.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:01.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:01.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:06.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:09.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:14.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:18.071] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:19.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:22.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:25.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:32.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:35.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:36.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:38.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:18:38.611] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:334, y:56, z:357, dim:minecraft:overworld]
+[11Dec2024 18:18:38.687] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:18:41.856] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:42.067] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:42.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11Dec2024 18:18:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:18:48.204] [Server thread/DEBUG] [tombstone/]: A new grave of the player Quiq7887 was created at position [x:339, y:56, z:350, dim:minecraft:overworld]
+[11Dec2024 18:18:48.250] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[11Dec2024 18:18:49.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:50.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:50.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:51.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:51.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:51.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:51.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:51.807] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:52.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:53.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:57.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:18:59.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:03.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:03.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:04.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:04.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:19:08.708] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:339, y:56, z:352, dim:minecraft:overworld]
+[11Dec2024 18:19:08.796] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:19:12.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Dec2024 18:19:21.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:32.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:19:32.713] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:337, y:56, z:348, dim:minecraft:overworld]
+[11Dec2024 18:19:32.737] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:19:46.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:46.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:47.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:48.822] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quiq7887 lost connection: Disconnected
+[11Dec2024 18:19:48.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 left the game
+[11Dec2024 18:19:49.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:19:59.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:02.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:04.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:07.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:08.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:11.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:11.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:11.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[11Dec2024 18:20:28.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:33.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:35.371] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:37.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:40.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:41.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:48.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:51.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:20:51.368] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:336, y:56, z:349, dim:minecraft:overworld]
+[11Dec2024 18:20:51.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:20:51.403] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:21:01.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:01.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[11Dec2024 18:21:02.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Creative Mode]
+[11Dec2024 18:21:12.024] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:12.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:13.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:13.930] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:16.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:21:16.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:22:24.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:22:24.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:22:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Suit Up]
+[11Dec2024 18:23:04.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Survival Mode]
+[11Dec2024 18:23:09.224] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:12.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:18.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:24.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:27.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:28.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:34.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:34.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:37.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:41.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:50.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:52.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:55.023] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:56.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:23:58.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:01.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:23.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:26.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:27.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:28.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:29.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:24:29.265] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:340, y:56, z:352, dim:minecraft:overworld]
+[11Dec2024 18:24:29.284] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:24:37.740] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:38.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:38.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:38.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:39.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:41.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:41.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:41.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:24:46.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:05.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:10.975] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:13.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Ferrous Wroughtnaut
+[11Dec2024 18:25:13.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:334, y:56, z:345, dim:minecraft:overworld]
+[11Dec2024 18:25:13.248] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[11Dec2024 18:25:23.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:26.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:29.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 18:25:30.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
