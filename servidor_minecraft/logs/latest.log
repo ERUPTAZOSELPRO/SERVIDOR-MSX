@@ -548,3 +548,13 @@
 [12Dec2024 16:41:32.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=176, y=121, z=178} BlockPos{x=176, y=121, z=176}
 [12Dec2024 16:42:14.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=177, y=121, z=177} BlockPos{x=176, y=120, z=174}
 [12Dec2024 16:42:59.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Isn't It Iron Pick]
+[12Dec2024 16:43:52.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Stone Age]
+[12Dec2024 16:46:13.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Mine? Mine? Mine?]
+[12Dec2024 16:47:50.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro fell from a high place
+[12Dec2024 16:47:50.059] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 16:51:05.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 16:51:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Alex's Caves]
+[12Dec2024 16:51:26.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Dec2024 16:53:00.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[12Dec2024 16:53:17.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[12Dec2024 16:53:36.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
