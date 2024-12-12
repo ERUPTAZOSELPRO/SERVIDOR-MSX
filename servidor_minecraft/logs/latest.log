@@ -600,3 +600,11 @@
 [12Dec2024 17:32:00.502] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
 [12Dec2024 17:33:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Hysterizer
 [12Dec2024 17:33:45.333] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:35:31.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/18514, l='ServerLevel[world]', x=-142.50, y=51.00, z=78.50]
+[12Dec2024 17:37:52.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Sweet Dreams]
+[12Dec2024 17:39:44.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Suffer
+[12Dec2024 17:39:44.493] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:41:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro rotten in terrible agony
+[12Dec2024 17:41:45.913] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:41:59.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Suffer
+[12Dec2024 17:41:59.487] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
