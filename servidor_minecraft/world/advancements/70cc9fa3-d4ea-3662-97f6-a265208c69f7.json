@@ -160,7 +160,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-12 16:59:02 +0000"
+      "minecraft:skeleton": "2024-12-12 16:59:02 +0000",
+      "minecraft:zombie": "2024-12-12 17:54:58 +0000"
     },
     "done": false
   },
@@ -215,6 +216,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-12 16:42:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-12 17:53:21 +0000"
     },
     "done": true
   },
