@@ -534,3 +534,19 @@
 [12Dec2024 20:04:42.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9661ms or 193 ticks behind
 [12Dec2024 20:05:00.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
 [12Dec2024 20:07:23.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]
+[12Dec2024 20:07:39.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Dec2024 20:10:18.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[12Dec2024 20:10:40.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Teleported Numo2021 to EruptazosElPro]
+[12Dec2024 20:10:41.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8139ms or 162 ticks behind
+[12Dec2024 20:11:00.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[12Dec2024 20:11:17.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[12Dec2024 20:11:35.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[12Dec2024 20:11:54.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12Dec2024 20:12:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]
+[12Dec2024 20:16:12.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12Dec2024 20:16:30.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[12Dec2024 20:16:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]
+[12Dec2024 20:16:51.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6130ms or 122 ticks behind
+[12Dec2024 20:17:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Creative Mode]
+[12Dec2024 20:17:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [You Are A Pirate]
+[12Dec2024 20:17:38.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]

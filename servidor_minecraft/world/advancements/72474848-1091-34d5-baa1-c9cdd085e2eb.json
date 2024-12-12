@@ -172,6 +172,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-12-11 17:50:25 +0000",
+      "dried_kelp": "2024-12-12 20:14:04 +0000",
       "cooked_salmon": "2024-12-11 18:25:01 +0000"
     },
     "done": false
@@ -280,73 +281,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-12 20:06:11 +0000"
+      "log_spam_fixer": "2024-12-12 20:16:40 +0000"
     },
     "done": false
   },

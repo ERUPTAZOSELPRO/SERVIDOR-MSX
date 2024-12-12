@@ -199,6 +199,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2024-12-12 20:14:53 +0000",
       "bread": "2024-12-12 19:34:25 +0000",
       "rotten_flesh": "2024-12-12 17:11:05 +0000",
       "dried_kelp": "2024-12-12 18:10:54 +0000"
