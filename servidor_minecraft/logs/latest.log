@@ -591,3 +591,12 @@
 [12Dec2024 17:10:15.826] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
 [12Dec2024 17:10:41.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 lost connection: Disconnected
 [12Dec2024 17:10:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 left the game
+[12Dec2024 17:14:32.913] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13465, l='ServerLevel[world]', x=-136.50, y=53.00, z=76.50]
+[12Dec2024 17:16:02.913] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/13787, l='ServerLevel[world]', x=-143.50, y=51.00, z=75.50]
+[12Dec2024 17:31:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 17:31:27.397] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:31:59.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has reached the goal [A Fast Comeback]
+[12Dec2024 17:32:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 17:32:00.502] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:33:45.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Hysterizer
+[12Dec2024 17:33:45.333] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
