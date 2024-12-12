@@ -567,3 +567,27 @@
 [12Dec2024 17:02:16.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [12Dec2024 17:03:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro withered away
 [12Dec2024 17:03:57.409] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:04:00.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Dec2024 17:04:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has reached the goal [Here They Come]
+[12Dec2024 17:04:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was slain by Lifestealer
+[12Dec2024 17:04:11.952] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[12Dec2024 17:04:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Knowledge of Death]
+[12Dec2024 17:04:25.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has reached the goal [Chain Death]
+[12Dec2024 17:04:25.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro withered away
+[12Dec2024 17:04:25.365] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:05:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro withered away
+[12Dec2024 17:05:06.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 withered away
+[12Dec2024 17:05:06.695] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:05:06.696] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[12Dec2024 17:05:09.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[12Dec2024 17:05:24.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has reached the goal [Horror Under the Mantle]
+[12Dec2024 17:05:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Dark Metallurgy]
+[12Dec2024 17:06:25.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[12Dec2024 17:06:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [The Flesh That Hates]
+[12Dec2024 17:06:42.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[12Dec2024 17:07:29.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro experienced the sensation of flesh tearing
+[12Dec2024 17:07:29.393] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:10:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro experienced the sensation of flesh tearing
+[12Dec2024 17:10:15.826] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 17:10:41.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 lost connection: Disconnected
+[12Dec2024 17:10:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 left the game
