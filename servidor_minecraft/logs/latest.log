@@ -633,3 +633,5 @@
 [12Dec2024 18:16:55.194] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
 [12Dec2024 18:17:54.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [12Dec2024 18:18:12.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[12Dec2024 18:40:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Hunter One
+[12Dec2024 18:40:19.096] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
