@@ -627,3 +627,9 @@
 [12Dec2024 18:14:04.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [12Dec2024 18:14:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
 [12Dec2024 18:14:06.863] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:15:11.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EruptazosElPro a server operator
+[12Dec2024 18:15:45.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Killed 8 entities]
+[12Dec2024 18:16:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Dog
+[12Dec2024 18:16:55.194] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:17:54.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12Dec2024 18:18:12.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind

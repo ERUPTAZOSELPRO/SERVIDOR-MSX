@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "70cc9fa3-d4ea-3662-97f6-a265208c69f7",
+    "name": "EruptazosElPro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "72474848-1091-34d5-baa1-c9cdd085e2eb",
     "name": "Numo2021",
     "level": 4,
