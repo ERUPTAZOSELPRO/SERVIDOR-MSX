@@ -183,6 +183,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-12 18:07:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-12 17:04:01 +0000"
@@ -197,7 +203,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2024-12-12 17:11:05 +0000"
+      "rotten_flesh": "2024-12-12 17:11:05 +0000",
+      "dried_kelp": "2024-12-12 18:10:54 +0000"
     },
     "done": false
   },

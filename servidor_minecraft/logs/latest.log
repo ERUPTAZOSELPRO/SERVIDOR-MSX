@@ -612,3 +612,18 @@
 [12Dec2024 17:53:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Diamond Termite
 [12Dec2024 17:53:28.796] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
 [12Dec2024 17:55:34.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Diamond Pickaxe] to EruptazosElPro
+[12Dec2024 18:06:43.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/27634, l='ServerLevel[world]', x=-137.50, y=53.00, z=78.50]
+[12Dec2024 18:07:34.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [A Seedy Place]
+[12Dec2024 18:08:15.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:08:16.040] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:08:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:08:44.198] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:09:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:09:28.119] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:11:36.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:11:36.573] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:12:45.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:12:45.749] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:14:04.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Dec2024 18:14:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Community
+[12Dec2024 18:14:06.863] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
