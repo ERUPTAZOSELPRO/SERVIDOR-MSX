@@ -635,3 +635,51 @@
 [12Dec2024 18:18:12.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
 [12Dec2024 18:40:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Flesh Hunter One
 [12Dec2024 18:40:19.096] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[12Dec2024 18:46:57.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro lost connection: Disconnected
+[12Dec2024 18:46:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro left the game
+[12Dec2024 18:46:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 18:46:58.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 18:46:58.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 18:47:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 18:47:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:scaffolding_d
+[12Dec2024 18:47:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:netherite_d
+[12Dec2024 18:47:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:redsotne_dimension
+[12Dec2024 18:47:02.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Dec2024 18:47:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[12Dec2024 18:47:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Dec2024 18:47:02.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:dirt_d
+[12Dec2024 18:47:02.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:podzol
+[12Dec2024 18:47:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:glass_d
+[12Dec2024 18:47:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:stoned
+[12Dec2024 18:47:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:diamondd
+[12Dec2024 18:47:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:tnt
+[12Dec2024 18:47:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:red_wool_dimension
+[12Dec2024 18:47:02.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:emerald_dimension
+[12Dec2024 18:47:02.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:wood
+[12Dec2024 18:47:02.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:sculk_dimension
+[12Dec2024 18:47:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:ironed
+[12Dec2024 18:47:02.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[12Dec2024 18:47:02.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:gold_d
+[12Dec2024 18:47:02.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/too_many_dimensions_dimensions:lapis_laluzi_dimension
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (scaffolding_d): All chunks are saved
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (netherite_d): All chunks are saved
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (redsotne_dimension): All chunks are saved
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Dec2024 18:47:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dirt_d): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (podzol): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glass_d): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stoned): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (diamondd): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (tnt): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (red_wool_dimension): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (emerald_dimension): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (wood): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (sculk_dimension): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (ironed): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gold_d): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lapis_laluzi_dimension): All chunks are saved
+[12Dec2024 18:47:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
