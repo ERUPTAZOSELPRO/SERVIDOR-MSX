@@ -578,3 +578,28 @@
 [13Dec2024 15:40:48.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [13Dec2024 15:40:56.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro moved too quickly! 1.0,-61.0,-6.0000030398368835
 [13Dec2024 15:40:59.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quiq7887 moved too quickly! 1.0,-61.0,-6.0000030398368835
+[13Dec2024 15:41:55.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro moved too quickly! 2.0,63.999999999999986,-3.039836883544922E-6
+[13Dec2024 15:41:58.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[13Dec2024 15:42:35.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21672ms or 433 ticks behind
+[13Dec2024 15:42:35.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro moved too quickly! 1.0,-61.0,-6.0000030398368835
+[13Dec2024 15:46:23.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bombastico999[/127.232.70.100:57637] logged in with entity id 13909 at (195.5, 129.0, 153.5)
+[13Dec2024 15:46:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 joined the game
+[13Dec2024 15:46:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Christmas]
+[13Dec2024 15:46:23.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Ice and Fire]
+[13Dec2024 15:46:30.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Dark Metallurgy]
+[13Dec2024 15:47:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Teleported Bombastico999 to Numo2021]
+[13Dec2024 15:47:20.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[13Dec2024 15:47:39.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4610ms or 92 ticks behind
+[13Dec2024 15:48:00.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5989ms or 119 ticks behind
+[13Dec2024 15:48:07.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has reached the goal [Big Boy]
+[13Dec2024 15:48:32.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[13Dec2024 15:49:24.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13Dec2024 15:49:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Alex's Mobs]
+[13Dec2024 15:50:47.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Stone Age]
+[13Dec2024 15:50:52.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13Dec2024 15:51:10.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2848ms or 56 ticks behind
+[13Dec2024 15:51:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Getting an Upgrade]
+[13Dec2024 15:51:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 was slain by Quiq7887
+[13Dec2024 15:51:14.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Your First Grave]
+[13Dec2024 15:51:14.234] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[13Dec2024 15:51:15.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [The Most Useful Key]
