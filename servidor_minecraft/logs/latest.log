@@ -635,3 +635,46 @@
 [13Dec2024 16:00:51.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
 [13Dec2024 16:01:14.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7766ms or 155 ticks behind
 [13Dec2024 16:01:33.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
+[13Dec2024 16:02:05.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16920ms or 338 ticks behind
+[13Dec2024 16:02:35.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15114ms or 302 ticks behind
+[13Dec2024 16:02:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Bombastico999]
+[13Dec2024 16:03:09.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18540ms or 370 ticks behind
+[13Dec2024 16:03:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 burned to death
+[13Dec2024 16:03:17.289] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[13Dec2024 16:03:21.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=127, z=156}
+[13Dec2024 16:03:21.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=127, z=155}
+[13Dec2024 16:03:21.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=127, z=155}
+[13Dec2024 16:03:21.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=126, z=154}
+[13Dec2024 16:03:22.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=126, z=154}
+[13Dec2024 16:03:22.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=126, z=154}
+[13Dec2024 16:03:37.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13203ms or 264 ticks behind
+[13Dec2024 16:03:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Made Bombastico999 a server operator]
+[13Dec2024 16:03:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bombastico999: Teleported Bombastico999 to EruptazosElPro]
+[13Dec2024 16:03:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has reached the goal [Here They Come]
+[13Dec2024 16:03:52.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has made the advancement [Knowledge of Death]
+[13Dec2024 16:03:52.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has reached the goal [Chain Death]
+[13Dec2024 16:03:52.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 was slain by EruptazosElPro
+[13Dec2024 16:03:53.099] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[13Dec2024 16:04:02.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 has reached the goal [A Fast Comeback]
+[13Dec2024 16:04:09.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16997ms or 339 ticks behind
+[13Dec2024 16:04:41.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16658ms or 333 ticks behind
+[13Dec2024 16:04:52.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Jennifer Dumped Me]
+[13Dec2024 16:05:14.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18060ms or 361 ticks behind
+[13Dec2024 16:05:47.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18328ms or 366 ticks behind
+[13Dec2024 16:06:19.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17031ms or 340 ticks behind
+[13Dec2024 16:06:52.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17780ms or 355 ticks behind
+[13Dec2024 16:07:21.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14862ms or 297 ticks behind
+[13Dec2024 16:07:51.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14808ms or 296 ticks behind
+[13Dec2024 16:08:20.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13604ms or 272 ticks behind
+[13Dec2024 16:08:34.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 fell from a high place
+[13Dec2024 16:08:34.452] [Server thread/INFO] [tombstone/]: The player Quiq7887 has successfully been saved
+[13Dec2024 16:08:46.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10993ms or 219 ticks behind
+[13Dec2024 16:09:14.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombastico999 moved too quickly! -4.848102171284836,-4.747796659746275,7.660138372658139
+[13Dec2024 16:09:58.763] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.03 seconds (should be max 0.05)
+[13Dec2024 16:09:58.769] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[13Dec2024 16:10:39.649] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID a505b2a8-31f8-4918-8b8a-26796584dfc8
+[13Dec2024 16:10:42.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 lost connection: Disconnected
+[13Dec2024 16:10:42.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 left the game
+[13Dec2024 16:10:53.946] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 62b45b86-f782-4922-a064-16ea564c0b92
+[13Dec2024 16:10:53.957] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/SERVIDOR-MSX/servidor_minecraft/./crash-reports/crash-2024-12-13_16.10.39-server.txt
+[13Dec2024 16:11:02.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45633f73[id=<null>,name=Numo2021,properties={},legacy=false] (/127.218.163.134:35931) lost connection: Disconnected
