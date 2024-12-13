@@ -557,3 +557,24 @@
 [13Dec2024 15:29:39.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [13Dec2024 15:29:57.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
 [13Dec2024 15:30:46.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[13Dec2024 15:31:07.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6193ms or 123 ticks behind
+[13Dec2024 15:31:26.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3925ms or 78 ticks behind
+[13Dec2024 15:31:35.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Quiq7887 has made the advancement [The Flesh That Hates]
+[13Dec2024 15:32:29.160] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5d17a499[id=<null>,name=EruptazosElPro,properties={},legacy=false] (/127.181.232.67:54693): Took too long to log in
+[13Dec2024 15:32:29.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d17a499[id=<null>,name=EruptazosElPro,properties={},legacy=false] (/127.181.232.67:54693) lost connection: Took too long to log in
+[13Dec2024 15:32:29.227] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 15:33:36.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EruptazosElPro[/127.181.232.67:41073] logged in with entity id 11500 at (-25.85607311605849, 60.0, 169.04107035610005)
+[13Dec2024 15:33:36.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro joined the game
+[13Dec2024 15:33:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro drowned
+[13Dec2024 15:33:54.382] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[13Dec2024 15:33:58.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Survival Mode]
+[13Dec2024 15:39:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Gave 1 [Dirt Portal Igniter] to EruptazosElPro]
+[13Dec2024 15:39:59.017] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [136 absolute-0 below top]
+[13Dec2024 15:40:01.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[13Dec2024 15:40:01.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 moved too quickly! 2.0,64.00000000000001,-3.039836883544922E-6
+[13Dec2024 15:40:01.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quiq7887 moved too quickly! 2.0,63.999999999999986,-3.039836883544922E-6
+[13Dec2024 15:40:02.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro moved too quickly! 2.0,64.0,-3.039836883544922E-6
+[13Dec2024 15:40:18.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[13Dec2024 15:40:48.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13Dec2024 15:40:56.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro moved too quickly! 1.0,-61.0,-6.0000030398368835
+[13Dec2024 15:40:59.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Quiq7887 moved too quickly! 1.0,-61.0,-6.0000030398368835

@@ -173,6 +173,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-12-13 15:34:04 +0000",
       "rotten_flesh": "2024-12-11 17:50:25 +0000",
       "dried_kelp": "2024-12-12 20:14:04 +0000",
       "cooked_salmon": "2024-12-11 18:25:01 +0000"
