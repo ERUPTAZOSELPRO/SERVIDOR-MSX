@@ -7663,3 +7663,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 16:01:56.716] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
 [15Dec2024 16:02:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Hoglin
 [15Dec2024 16:02:03.182] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:02:05.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[15Dec2024 16:02:30.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9319ms or 186 ticks behind
+[15Dec2024 16:02:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 withered away
+[15Dec2024 16:02:32.919] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bombastico999 was created at position [x:32, y:211, z:-15, dim:minecraft:overworld]
+[15Dec2024 16:02:32.939] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[15Dec2024 16:02:34.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 16:02:34.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 16:02:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 was doomed to fall by Hoglin
+[15Dec2024 16:02:50.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player Bombastico999 was created at position [x:26, y:70, z:-9, dim:minecraft:overworld]
+[15Dec2024 16:02:50.300] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[15Dec2024 16:03:01.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15955ms or 319 ticks behind
+[15Dec2024 16:03:05.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombastico999 moved too quickly! 0.18465224883556175,-17.41102100082462,-0.9919466396157652
+[15Dec2024 16:03:09.248] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 34 messages to dispatch.
+[15Dec2024 16:03:09.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[15Dec2024 16:03:09.347] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[15Dec2024 16:03:09.445] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[15Dec2024 16:03:09.446] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge]
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'medieval_boomsticks:messages' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aether:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epic_knights_ores_and_alloys:epic_knights_ores_and_alloys' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luminousworld:luminousworld' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nitrogen_internals:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_flesh_that_hates:the_flesh_that_hates' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'better_enchant:better_enchant' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'warriorsofpastepoch:warriorsofpastepoch' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[15Dec2024 16:03:09.447] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Dec2024 16:03:09.448] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [toughasnails:main_channel,alexscaves:main_channel,aether:main,sophisticatedbackpacks:channel,citadel:main_channel,epic_knights_ores_and_alloys:epic_knights_ores_and_alloys,iceandfire:main_channel,luminousworld:luminousworld,born_in_chaos_v1:born_in_chaos_v1,nitrogen_internals:main,the_flesh_that_hates:the_flesh_that_hates,curios:main,cataclysm:main_channel,spartanshields:network,alexsmobs:main_channel,quark:main,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,better_enchant:better_enchant,warriorsofpastepoch:warriorsofpastepoch,spartanweaponry:network,zeta:main,geckolib:main,waystones:network] rejected their client side version number
+[15Dec2024 16:03:09.448] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Dec2024 16:03:09.448] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[15Dec2024 16:03:09.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@117707f5[id=<null>,name=Lino64ter,properties={},legacy=false] (/127.110.216.187:60159) lost connection: Connection closed - mismatched mod channel list
+[15Dec2024 16:03:18.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Acquire Hardware]
+[15Dec2024 16:03:19.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Hoglin
+[15Dec2024 16:03:19.539] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:03:27.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11081ms or 221 ticks behind
+[15Dec2024 16:03:44.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[15Dec2024 16:03:58.195] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:04:03.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:04:05.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:04:05.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[15Dec2024 16:04:05.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombastico999 lost connection: Disconnected
+[15Dec2024 16:04:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 left the game
+[15Dec2024 16:04:06.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:04:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Wither Skeleton
+[15Dec2024 16:04:17.392] [Server thread/DEBUG] [tombstone/]: A new grave of the player EruptazosElPro was created at position [x:52, y:209, z:13, dim:minecraft:overworld]
+[15Dec2024 16:04:17.458] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:04:23.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[15Dec2024 16:04:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro fell from a high place
+[15Dec2024 16:04:42.671] [Server thread/DEBUG] [tombstone/]: A new grave of the player EruptazosElPro was created at position [x:59, y:75, z:27, dim:minecraft:overworld]
+[15Dec2024 16:04:42.672] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:04:42.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[15Dec2024 16:04:59.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 moved too quickly! -0.4534770916186375,-13.746956090073013,-0.7965397731636905
+[15Dec2024 16:05:00.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[15Dec2024 16:05:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was doomed to fall by Hoglin
+[15Dec2024 16:05:02.848] [Server thread/DEBUG] [tombstone/]: A new grave of the player Numo2021 was created at position [x:14, y:63, z:-18, dim:minecraft:overworld]
+[15Dec2024 16:05:02.912] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[15Dec2024 16:06:32.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:06:33.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:06:37.382] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:06:39.670] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:06:46.448] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:06:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Stone Age]
+[15Dec2024 16:07:01.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:08:18.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 16:08:18.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 16:11:12.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[15Dec2024 16:11:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]
+[15Dec2024 16:11:58.741] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:11:58.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:12:00.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:12:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Flesh That Hates]
+[15Dec2024 16:12:07.246] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[15Dec2024 16:12:08.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

@@ -1333,3 +1333,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 16:01:56.716] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
 [15Dec2024 16:02:03.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Hoglin
 [15Dec2024 16:02:03.182] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:02:05.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[15Dec2024 16:02:30.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9319ms or 186 ticks behind
+[15Dec2024 16:02:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 withered away
+[15Dec2024 16:02:32.939] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[15Dec2024 16:02:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 was doomed to fall by Hoglin
+[15Dec2024 16:02:50.300] [Server thread/INFO] [tombstone/]: The player Bombastico999 has successfully been saved
+[15Dec2024 16:03:01.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15955ms or 319 ticks behind
+[15Dec2024 16:03:05.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombastico999 moved too quickly! 0.18465224883556175,-17.41102100082462,-0.9919466396157652
+[15Dec2024 16:03:09.448] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [toughasnails:main_channel,alexscaves:main_channel,aether:main,sophisticatedbackpacks:channel,citadel:main_channel,epic_knights_ores_and_alloys:epic_knights_ores_and_alloys,iceandfire:main_channel,luminousworld:luminousworld,born_in_chaos_v1:born_in_chaos_v1,nitrogen_internals:main,the_flesh_that_hates:the_flesh_that_hates,curios:main,cataclysm:main_channel,spartanshields:network,alexsmobs:main_channel,quark:main,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,better_enchant:better_enchant,warriorsofpastepoch:warriorsofpastepoch,spartanweaponry:network,zeta:main,geckolib:main,waystones:network] rejected their client side version number
+[15Dec2024 16:03:09.448] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[15Dec2024 16:03:09.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@117707f5[id=<null>,name=Lino64ter,properties={},legacy=false] (/127.110.216.187:60159) lost connection: Connection closed - mismatched mod channel list
+[15Dec2024 16:03:18.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro has made the advancement [Acquire Hardware]
+[15Dec2024 16:03:19.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Hoglin
+[15Dec2024 16:03:19.539] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:03:27.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11081ms or 221 ticks behind
+[15Dec2024 16:03:44.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[15Dec2024 16:04:05.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[15Dec2024 16:04:05.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombastico999 lost connection: Disconnected
+[15Dec2024 16:04:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bombastico999 left the game
+[15Dec2024 16:04:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro was slain by Wither Skeleton
+[15Dec2024 16:04:17.458] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:04:23.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[15Dec2024 16:04:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro fell from a high place
+[15Dec2024 16:04:42.672] [Server thread/INFO] [tombstone/]: The player EruptazosElPro has successfully been saved
+[15Dec2024 16:04:42.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3814ms or 76 ticks behind
+[15Dec2024 16:04:59.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 moved too quickly! -0.4534770916186375,-13.746956090073013,-0.7965397731636905
+[15Dec2024 16:05:00.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[15Dec2024 16:05:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was doomed to fall by Hoglin
+[15Dec2024 16:05:02.912] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[15Dec2024 16:06:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [Stone Age]
+[15Dec2024 16:11:12.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[15Dec2024 16:11:26.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EruptazosElPro: Teleported EruptazosElPro to Numo2021]
+[15Dec2024 16:12:00.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Flesh That Hates]

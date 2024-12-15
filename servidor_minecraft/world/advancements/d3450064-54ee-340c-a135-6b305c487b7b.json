@@ -11,11 +11,29 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-15 15:48:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -41,9 +59,34 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-15 16:02:39 +0000",
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-15 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-15 16:01:08 +0000"
     },
     "done": true
   },
@@ -83,10 +126,30 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-12-15 16:03:16 +0000",
       "minecraft:forest": "2024-12-15 15:46:55 +0000",
+      "minecraft:savanna": "2024-12-15 16:03:14 +0000",
       "minecraft:plains": "2024-12-15 15:46:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
     },
     "done": false
   },
@@ -99,6 +162,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-15 15:50:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 16:01:24 +0000"
     },
     "done": true
   },
@@ -121,6 +190,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2024-12-15 15:46:26 +0000"
@@ -136,6 +211,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-15 15:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-15 16:01:07 +0000"
     },
     "done": true
   },
@@ -162,6 +243,18 @@
       "requirement": "2024-12-15 15:46:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 16:02:36 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
