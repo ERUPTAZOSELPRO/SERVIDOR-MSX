@@ -5,17 +5,47 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-15 15:46:37 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2024-12-15 15:46:40 +0000"
     },
     "done": false
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-15 15:49:16 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -23,27 +53,46 @@
     },
     "done": false
   },
-  "dungeons_arise:wda_root": {
+  "incendium:technical/using/trailblazer": {
     "criteria": {
-      "WDA": "2024-12-15 15:46:37 +0000"
+      "log_spam_fixer": "2024-12-15 15:46:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-15 15:46:40 +0000",
+      "minecraft:plains": "2024-12-15 15:47:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-15 15:46:40 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-15 15:46:40 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "from_undead": "2024-12-15 15:58:59 +0000"
+      "location0": "2024-12-15 15:49:16 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_ingredient": "2024-12-15 15:54:44 +0000"
+      "killed_something": "2024-12-15 15:50:34 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "minecraft:story/root": {
     "criteria": {
-      "coded_trigger": "2024-12-15 15:54:41 +0000"
+      "crafting_table": "2024-12-15 15:51:27 +0000"
     },
     "done": true
   },
@@ -59,45 +108,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "tombstone:adventure/first_grave": {
     "criteria": {
-      "coded_trigger": "2024-12-15 15:55:21 +0000"
+      "coded_trigger": "2024-12-15 15:54:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "iron": "2024-12-15 16:03:18 +0000"
+      "has_ingredient": "2024-12-15 15:54:44 +0000"
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "log_spam_fixer": "2024-12-15 15:46:40 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-15 15:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2024-12-15 15:58:59 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 15:46:37 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-15 15:46:37 +0000"
+      "has_upgraded_grave_key": "2024-12-15 15:54:44 +0000"
     },
     "done": true
   },
@@ -106,6 +131,30 @@
       "coded_trigger": "2024-12-15 15:54:57 +0000"
     },
     "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 15:54:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 15:55:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-15 15:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-15 15:58:59 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -118,13 +167,6 @@
       "has_ingredient": "2024-12-15 15:59:08 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-12-15 15:46:40 +0000",
-      "minecraft:plains": "2024-12-15 15:47:58 +0000"
-    },
-    "done": false
   },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
@@ -144,15 +186,15 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-15 16:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-15 16:07:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-15 15:46:40 +0000"
     },
     "done": false
   },
@@ -162,45 +204,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "spartanweaponry:scythe": {
     "criteria": {
-      "bornin_chaos_0": "2024-12-15 15:46:37 +0000"
+      "has_scythe": "2024-12-15 16:24:58 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "spartanweaponry:root": {
     "criteria": {
-      "has_upgraded_grave_key": "2024-12-15 15:54:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 15:54:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-15 15:46:40 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-15 15:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-15 15:51:27 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2024-12-15 15:46:37 +0000"
+      "has_pole": "2024-12-15 16:24:39 +0000"
     },
     "done": true
   },
