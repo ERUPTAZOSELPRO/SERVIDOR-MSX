@@ -171,6 +171,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 15:56:31 +0000",
+      "minecraft:creeper": "2024-12-17 16:40:02 +0000",
       "minecraft:zombie": "2024-12-15 16:33:52 +0000"
     },
     "done": false
@@ -190,12 +191,6 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-15 16:06:46 +0000"
-    },
-    "done": true
-  },
-  "the_flesh_that_hates:the_flesh_that_hates": {
-    "criteria": {
-      "requirement": "2024-12-15 16:12:00 +0000"
     },
     "done": true
   },
@@ -247,15 +242,40 @@
     },
     "done": true
   },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 16:18:21 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2024-12-17 16:21:46 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mysterious_gift": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "coded_trigger": "2024-12-17 16:18:21 +0000"
+      "slept_in_bed": "2024-12-17 16:25:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2024-12-17 16:40:35 +0000",
+      "zombie_head": "2024-12-17 16:40:58 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-17 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-18 15:28:56 +0000"
     },
     "done": true
   },
