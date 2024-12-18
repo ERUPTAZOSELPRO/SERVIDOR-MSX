@@ -5623,3 +5623,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 15:31:46.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 15:31:46.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 15:32:36.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Parrots and the Bats]
+[18Dec2024 15:36:46.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 15:36:46.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 15:41:47.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 15:41:47.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
