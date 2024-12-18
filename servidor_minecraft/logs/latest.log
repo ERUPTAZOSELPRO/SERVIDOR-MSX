@@ -663,3 +663,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 15:49:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was killed
 [18Dec2024 15:49:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Killed Numo2021]
 [18Dec2024 15:49:00.449] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
+[18Dec2024 15:56:39.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 lost connection: Disconnected
+[18Dec2024 15:56:39.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 left the game
+[18Dec2024 15:56:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 15:56:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 15:56:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 15:56:45.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 15:56:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 15:56:45.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Dec2024 15:56:45.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 15:56:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Dec2024 15:56:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 15:56:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 15:56:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Dec2024 15:56:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 15:56:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Dec2024 15:56:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
