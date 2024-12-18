@@ -658,3 +658,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Dec2024 15:28:56.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [It Belongs in a Museum]
 [18Dec2024 15:29:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Creative Mode]
 [18Dec2024 15:32:36.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [The Parrots and the Bats]
+[18Dec2024 15:47:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 has made the advancement [A Strange Grave Dust]
+[18Dec2024 15:48:47.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Set own game mode to Survival Mode]
+[18Dec2024 15:49:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 was killed
+[18Dec2024 15:49:00.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Numo2021: Killed Numo2021]
+[18Dec2024 15:49:00.449] [Server thread/INFO] [tombstone/]: The player Numo2021 has successfully been saved
