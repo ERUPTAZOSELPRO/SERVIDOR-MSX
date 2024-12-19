@@ -263,7 +263,8 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2024-12-17 16:40:35 +0000",
-      "zombie_head": "2024-12-17 16:40:58 +0000"
+      "zombie_head": "2024-12-17 16:40:58 +0000",
+      "skeleton_skull": "2024-12-19 16:26:09 +0000"
     },
     "done": false
   },
@@ -294,6 +295,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-18 15:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-19 16:25:03 +0000"
     },
     "done": true
   },
