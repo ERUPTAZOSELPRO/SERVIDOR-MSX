@@ -755,3 +755,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19Dec2024 16:53:36.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
 [19Dec2024 16:53:49.556] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EruptazosElPro lost connection: Disconnected
 [19Dec2024 16:53:49.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EruptazosElPro left the game
+[19Dec2024 16:57:31.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19Dec2024 16:58:44.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numo2021 lost connection: Disconnected
+[19Dec2024 16:58:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numo2021 left the game
+[19Dec2024 16:58:44.743] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
